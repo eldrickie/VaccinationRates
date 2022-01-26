@@ -1,6 +1,6 @@
 ## CDC - What Factors Drive Vaccination Rates
 ![image](https://user-images.githubusercontent.com/76742936/131041978-56a3d7ae-949a-4bac-b108-642bb9d49d66.png)
-### Organization Overview¶
+### Organization Overview
 The novel coronavirus (Covid-19 or SARS-CoV-2) has gripped the world since its believed outbreak in late 2019. Governments and people around the world have since had to endure personal, economic, and social hardships in an unprecedented scale. The vaccine rollout for Covid-19 began in in January, 2021 for ages 65 and older. By August, around 70% of the US population are reported to have been vaccinated with at least the first dosage. However, this rate is still 8.5 million people short of its previous goal to fully vaccinate 165 million individuals. In order to reach this goal, this research aims to identify the driving factors which increase the likelihood of an individual getting innoculated. The research looks at previous data regarding the H1N1 Influenza outbreak in 2009 as well as data regarding seasonal flu shots. By identifying features that have the most impact in vaccination rates for these two viruses, the CDC can implement new campagins to improve vaccination rates to combat further outbreaks of Covid-19.
 ### Research Question:
 - What features determine the likelihood of vaccination against H1N1 Influenza?
