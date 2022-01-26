@@ -1,5 +1,3 @@
-# Phase3Project
-Phase3Project
 ## CDC - What Factors Drive Vaccination Rates
 ![image](https://user-images.githubusercontent.com/76742936/131041978-56a3d7ae-949a-4bac-b108-642bb9d49d66.png)
 ### Organization Overview¶
